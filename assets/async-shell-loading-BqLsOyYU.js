@@ -1,0 +1,1 @@
+import{v as e,y as t}from"./runtime-core.esm-bundler-Dn4nvGT2.js";import{o as n}from"./nodeDataBind-BWjhOjmr.js";var r=n({name:`AsyncShellLoading`,setup(){return()=>t(`div`,{class:`async-shell-loading`},[t(`div`,{class:`async-shell-loading__spinner`},null),t(`p`,{class:`async-shell-loading__text`},[e(`页面加载中…`)])])}},[[`__scopeId`,`data-v-68993fd8`]]);export{r as t};

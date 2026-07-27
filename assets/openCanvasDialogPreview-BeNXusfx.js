@@ -1,0 +1,1 @@
+import{c as e}from"./editor-DxOPhowk.js";import{c as t}from"./project-Ck43BimC.js";function n(n){if(!n)return;let r=t(),i=e();typeof r.syncEditorToCurrentPage==`function`&&r.syncEditorToCurrentPage(),i.setState([`config`,`canvasDialogPreviewId`,n])}export{n as t};

@@ -1,0 +1,1 @@
+import{r as e}from"./index-Dm0L-M3a.js";function t(t,n){if(!t||!n)return;let r=e.resolve({name:`run`,params:{projectId:t,pageId:n}}),i=r.href.startsWith(`http`)?r.href:`${location.origin}${location.pathname}${r.href}`;window.open(i,`_blank`)}export{t};
